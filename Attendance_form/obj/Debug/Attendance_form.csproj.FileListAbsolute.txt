@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\bin\Debug\Attendance_form.exe.config
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\bin\Debug\Attendance_form.exe
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\bin\Debug\Attendance_form.pdb
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\obj\Debug\Attendance_form.Properties.Resources.resources
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\obj\Debug\Attendance_form.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\obj\Debug\Attendance_form.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\obj\Debug\Attendance_form.exe
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\obj\Debug\Attendance_form.pdb
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\obj\Debug\Attendance_form.MainForm.resources
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\obj\Debug\Attendance_form.controls._loginTextBox.resources
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\obj\Debug\Attendance_form.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Attendance_form\Attendance_form\obj\Debug\Attendance_form.employeeForm.resources
